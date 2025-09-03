@@ -1,8 +1,8 @@
-# Mintlify Starter Kit
+# Krypto Key Documentation
 
-Use the starter kit to get your docs deployed and ready to customize.
+Welcome to the Krypto Key documentation site. This repository contains the complete documentation for the Krypto Key platform.
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+Click the green **Use this template** button at the top of this repo to copy the Krypto Key documentation template. The template contains examples with
 
 - Guide pages
 - Navigation
@@ -10,11 +10,11 @@ Click the green **Use this template** button at the top of this repo to copy the
 - API reference pages
 - Use of popular components
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+**[Follow the full quickstart guide](https://docs.kryptokey.com/quickstart)**
 
 ## Development
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+Install the [Krypto Key CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
 
 ```
 npm i -g mint
@@ -30,7 +30,7 @@ View your local preview at `http://localhost:3000`.
 
 ## Publishing changes
 
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
+Install our GitHub app from your [dashboard](https://dashboard.kryptokey.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
 
 ## Need help?
 
@@ -40,5 +40,5 @@ Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/sett
 - If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
 
 ### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
-- [Mintlify community](https://mintlify.com/community)
+- [Krypto Key documentation](https://docs.kryptokey.com)
+- [Krypto Key community](https://community.kryptokey.com)
